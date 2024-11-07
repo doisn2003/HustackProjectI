@@ -72,5 +72,3 @@ public class Algorithm {
         return newPay - oldPay;
     }
 }
-
-}
